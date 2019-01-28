@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * JUnit Test Code
+ * JUnit Test Code to check basic functionality
  */
 public class ExpressionParserPartialTester {
 	private ExpressionParser _parser;
