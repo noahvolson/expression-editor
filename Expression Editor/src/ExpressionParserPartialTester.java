@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * Code to test Project 5; you should definitely add more tests!
+ * JUnit Test Code
  */
 public class ExpressionParserPartialTester {
 	private ExpressionParser _parser;
